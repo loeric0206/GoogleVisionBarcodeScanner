@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleVisionTest</string>
+    <string name="scan_qr">scan qr code</string>
+    <string name="rescan">重新掃描</string>
+</resources>
